@@ -15,7 +15,9 @@ This project was completed using the Elixir programming language alongside the P
  <img src="1.gif">
 </p>
 
+<p align="center" size="10px">
 This is the main view on the user end.
+</p>
 
 </br>
 
@@ -24,7 +26,9 @@ This is the main view on the user end.
  <img src="2.gif">
 </p>
 
+<p align="center" size="10px">
 This demonstrates how the interface dynamically updates and broadcasts all changes.
+</p>
 
 </br>
 
@@ -33,5 +37,6 @@ This demonstrates how the interface dynamically updates and broadcasts all chang
  <img src="3.gif">
 </p>
 
+<p align="center" size="10px">
 This shows how responsive the design elements are (scaling etc).
-
+</p>
