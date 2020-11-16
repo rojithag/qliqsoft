@@ -9,7 +9,7 @@ This project was completed using the Elixir programming language alongside the P
 * Add, completed and delete functionality.
 * Test broadcasting capabilities.
 
-##Event handling
+## Event handling
 ```elixir
 defmodule LiveViewTodosWeb.TodoLive do
   use LiveViewTodosWeb, :live_view
@@ -48,7 +48,7 @@ defmodule LiveViewTodosWeb.TodoLive do
 end
 ```
 
-##Template & Design
+## Template & Design
 ```elixir
 <head>
 <style>
@@ -153,7 +153,7 @@ end
 
 ```
 
-##User interface
+## User interface
 
 **Main view**
 <p align="center">
