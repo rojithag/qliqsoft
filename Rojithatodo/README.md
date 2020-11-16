@@ -1,1 +1,34 @@
-![](main.gif)
+# Qliqsoft Todo Challenge
+
+This project was completed using the Elixir programming language alongside the Phoenix SDK.
+
+**High level goals**
+* Minimal design elements.
+* Responsive user interface.
+* Dynamically updating list.
+* Add, completed and delete functionality.
+* Test broadcasting capabilities.
+
+
+**Main view**
+<p align="center">
+![](1.gif)
+</p>
+
+This is the main view on the user end.
+
+
+**Dynamically updating and broadcasting view**
+<p align="center">
+![](2.gif)
+</p>
+
+This demonstrates how the interface dynamically updates and broadcasts all changes.
+
+**Responsive design**
+<p align="center">
+![](3.gif)
+</p>
+
+This shows how responsive the design elements are (scaling etc).
+
