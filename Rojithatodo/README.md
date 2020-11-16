@@ -17,6 +17,7 @@ This project was completed using the Elixir programming language alongside the P
 
 This is the main view on the user end.
 
+</br>
 
 **Dynamically updating and broadcasting view**
 <p align="center">
@@ -24,6 +25,8 @@ This is the main view on the user end.
 </p>
 
 This demonstrates how the interface dynamically updates and broadcasts all changes.
+
+</br>
 
 **Responsive design**
 <p align="center">
