@@ -12,7 +12,7 @@ This project was completed using the Elixir programming language alongside the P
 
 **Main view**
 <p align="center">
-![](1.gif)
+ <img width="460" height="300" src="1.gif">
 </p>
 
 This is the main view on the user end.
@@ -20,14 +20,14 @@ This is the main view on the user end.
 
 **Dynamically updating and broadcasting view**
 <p align="center">
-![](2.gif)
+ <img width="460" height="300" src="2.gif">
 </p>
 
 This demonstrates how the interface dynamically updates and broadcasts all changes.
 
 **Responsive design**
 <p align="center">
-![](3.gif)
+ <img width="460" height="300" src="3.gif">
 </p>
 
 This shows how responsive the design elements are (scaling etc).
